@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ckontis02
+- 👀 I’m interested in computer hardware, computer logic and computational mathematics
+- 🌱 I’m currently learning C++
+- 📫 How to reach me : ckontis02@gmail.com
